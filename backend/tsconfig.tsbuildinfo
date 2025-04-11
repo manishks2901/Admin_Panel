@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/ controllers/auth.controller.ts","./src/lib/cloudinary.ts","./src/lib/db.ts","./src/lib/utils.ts","./src/middleware/auth.middleware.ts","./src/middleware/multer.ts","./src/routes/auth.routes.ts"],"version":"5.8.2"}
