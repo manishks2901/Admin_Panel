@@ -1,0 +1,1 @@
+{"root":["./src/auth/auth.ts","./src/context/context.ts","./src/db/db.ts","./src/server/_app.ts","./src/server/trpc.ts","./src/types/types.ts"],"version":"5.8.3"}
